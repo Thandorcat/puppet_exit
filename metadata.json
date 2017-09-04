@@ -1,0 +1,954 @@
+[
+[
+
+]
+,
+[
+  {
+    "message": "class not documented",
+    "line": 1,
+    "column": 1,
+    "kind": "warning",
+    "check": "documentation",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/apache/manifests/init.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/apache/manifests/init.pp",
+    "filename": "init.pp",
+    "KIND": "WARNING"
+  },
+  {
+    "message": "two-space soft tabs not used",
+    "line": 3,
+    "column": 1,
+    "kind": "error",
+    "check": "2sp_soft_tabs",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/apache/manifests/init.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/apache/manifests/init.pp",
+    "filename": "init.pp",
+    "KIND": "ERROR"
+  },
+  {
+    "message": "two-space soft tabs not used",
+    "line": 14,
+    "column": 1,
+    "kind": "error",
+    "check": "2sp_soft_tabs",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/apache/manifests/init.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/apache/manifests/init.pp",
+    "filename": "init.pp",
+    "KIND": "ERROR"
+  },
+  {
+    "message": "two-space soft tabs not used",
+    "line": 17,
+    "column": 1,
+    "kind": "error",
+    "check": "2sp_soft_tabs",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/apache/manifests/init.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/apache/manifests/init.pp",
+    "filename": "init.pp",
+    "KIND": "ERROR"
+  },
+  {
+    "message": "two-space soft tabs not used",
+    "line": 18,
+    "column": 1,
+    "kind": "error",
+    "check": "2sp_soft_tabs",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/apache/manifests/init.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/apache/manifests/init.pp",
+    "filename": "init.pp",
+    "KIND": "ERROR"
+  },
+  {
+    "message": "two-space soft tabs not used",
+    "line": 19,
+    "column": 1,
+    "kind": "error",
+    "check": "2sp_soft_tabs",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/apache/manifests/init.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/apache/manifests/init.pp",
+    "filename": "init.pp",
+    "KIND": "ERROR"
+  },
+  {
+    "message": "two-space soft tabs not used",
+    "line": 21,
+    "column": 1,
+    "kind": "error",
+    "check": "2sp_soft_tabs",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/apache/manifests/init.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/apache/manifests/init.pp",
+    "filename": "init.pp",
+    "KIND": "ERROR"
+  },
+  {
+    "message": "two-space soft tabs not used",
+    "line": 23,
+    "column": 1,
+    "kind": "error",
+    "check": "2sp_soft_tabs",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/apache/manifests/init.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/apache/manifests/init.pp",
+    "filename": "init.pp",
+    "KIND": "ERROR"
+  },
+  {
+    "message": "two-space soft tabs not used",
+    "line": 26,
+    "column": 1,
+    "kind": "error",
+    "check": "2sp_soft_tabs",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/apache/manifests/init.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/apache/manifests/init.pp",
+    "filename": "init.pp",
+    "KIND": "ERROR"
+  },
+  {
+    "message": "two-space soft tabs not used",
+    "line": 31,
+    "column": 1,
+    "kind": "error",
+    "check": "2sp_soft_tabs",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/apache/manifests/init.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/apache/manifests/init.pp",
+    "filename": "init.pp",
+    "KIND": "ERROR"
+  },
+  {
+    "message": "two-space soft tabs not used",
+    "line": 32,
+    "column": 1,
+    "kind": "error",
+    "check": "2sp_soft_tabs",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/apache/manifests/init.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/apache/manifests/init.pp",
+    "filename": "init.pp",
+    "KIND": "ERROR"
+  },
+  {
+    "message": "two-space soft tabs not used",
+    "line": 33,
+    "column": 1,
+    "kind": "error",
+    "check": "2sp_soft_tabs",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/apache/manifests/init.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/apache/manifests/init.pp",
+    "filename": "init.pp",
+    "KIND": "ERROR"
+  },
+  {
+    "message": "two-space soft tabs not used",
+    "line": 37,
+    "column": 1,
+    "kind": "error",
+    "check": "2sp_soft_tabs",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/apache/manifests/init.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/apache/manifests/init.pp",
+    "filename": "init.pp",
+    "KIND": "ERROR"
+  },
+  {
+    "message": "two-space soft tabs not used",
+    "line": 38,
+    "column": 1,
+    "kind": "error",
+    "check": "2sp_soft_tabs",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/apache/manifests/init.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/apache/manifests/init.pp",
+    "filename": "init.pp",
+    "KIND": "ERROR"
+  }
+]
+,
+[
+  {
+    "message": "class not documented",
+    "line": 1,
+    "column": 1,
+    "kind": "warning",
+    "check": "documentation",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/mymysql/manifests/init.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/mymysql/manifests/init.pp",
+    "filename": "init.pp",
+    "KIND": "WARNING"
+  }
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+  {
+    "message": "line has more than 140 characters",
+    "line": 38,
+    "column": 140,
+    "kind": "warning",
+    "check": "140chars",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/mysql/manifests/bindings.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/mysql/manifests/bindings.pp",
+    "filename": "bindings.pp",
+    "KIND": "WARNING"
+  },
+  {
+    "message": "line has more than 140 characters",
+    "line": 40,
+    "column": 140,
+    "kind": "warning",
+    "check": "140chars",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/mysql/manifests/bindings.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/mysql/manifests/bindings.pp",
+    "filename": "bindings.pp",
+    "KIND": "WARNING"
+  },
+  {
+    "message": "line has more than 140 characters",
+    "line": 42,
+    "column": 140,
+    "kind": "warning",
+    "check": "140chars",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/mysql/manifests/bindings.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/mysql/manifests/bindings.pp",
+    "filename": "bindings.pp",
+    "KIND": "WARNING"
+  }
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+  {
+    "message": "line has more than 140 characters",
+    "line": 43,
+    "column": 140,
+    "kind": "warning",
+    "check": "140chars",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/mysql/manifests/server/config.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/mysql/manifests/server/config.pp",
+    "filename": "config.pp",
+    "KIND": "WARNING"
+  },
+  {
+    "message": "line has more than 140 characters",
+    "line": 53,
+    "column": 140,
+    "kind": "warning",
+    "check": "140chars",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/mysql/manifests/server/config.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/mysql/manifests/server/config.pp",
+    "filename": "config.pp",
+    "KIND": "WARNING"
+  }
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+  {
+    "message": "line has more than 140 characters",
+    "line": 15,
+    "column": 140,
+    "kind": "warning",
+    "check": "140chars",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/mysql/manifests/server/service.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/mysql/manifests/server/service.pp",
+    "filename": "service.pp",
+    "KIND": "WARNING"
+  },
+  {
+    "message": "line has more than 140 characters",
+    "line": 43,
+    "column": 140,
+    "kind": "warning",
+    "check": "140chars",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/mysql/manifests/server/service.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/mysql/manifests/server/service.pp",
+    "filename": "service.pp",
+    "KIND": "WARNING"
+  }
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+  {
+    "message": "defined type not documented",
+    "line": 1,
+    "column": 1,
+    "kind": "warning",
+    "check": "documentation",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/stdlib/spec/fixtures/test/manifests/deftype.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/stdlib/spec/fixtures/test/manifests/deftype.pp",
+    "filename": "deftype.pp",
+    "KIND": "WARNING"
+  }
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+  {
+    "message": "line has more than 140 characters",
+    "line": 7,
+    "column": 140,
+    "kind": "warning",
+    "check": "140chars",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/stdlib/types/compat/absolute_path.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/stdlib/types/compat/absolute_path.pp",
+    "filename": "absolute_path.pp",
+    "KIND": "WARNING"
+  }
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+  {
+    "message": "line has more than 140 characters",
+    "line": 23,
+    "column": 140,
+    "kind": "warning",
+    "check": "140chars",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/stdlib/types/compat/integer.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/stdlib/types/compat/integer.pp",
+    "filename": "integer.pp",
+    "KIND": "WARNING"
+  }
+]
+,
+[
+
+]
+,
+[
+  {
+    "message": "line has more than 140 characters",
+    "line": 2,
+    "column": 140,
+    "kind": "warning",
+    "check": "140chars",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/stdlib/types/compat/ipv4.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/stdlib/types/compat/ipv4.pp",
+    "filename": "ipv4.pp",
+    "KIND": "WARNING"
+  }
+]
+,
+[
+  {
+    "message": "line has more than 140 characters",
+    "line": 1,
+    "column": 140,
+    "kind": "warning",
+    "check": "140chars",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/stdlib/types/compat/ipv6.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/stdlib/types/compat/ipv6.pp",
+    "filename": "ipv6.pp",
+    "KIND": "WARNING"
+  }
+]
+,
+[
+  {
+    "message": "line has more than 140 characters",
+    "line": 23,
+    "column": 140,
+    "kind": "warning",
+    "check": "140chars",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/stdlib/types/compat/numeric.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/stdlib/types/compat/numeric.pp",
+    "filename": "numeric.pp",
+    "KIND": "WARNING"
+  }
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+
+]
+,
+[
+  {
+    "message": "class not documented",
+    "line": 1,
+    "column": 1,
+    "kind": "warning",
+    "check": "documentation",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/profile/manifests/zabbix/agent.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/profile/manifests/zabbix/agent.pp",
+    "filename": "agent.pp",
+    "KIND": "WARNING"
+  }
+]
+,
+[
+  {
+    "message": "class not documented",
+    "line": 1,
+    "column": 1,
+    "kind": "warning",
+    "check": "documentation",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/profile/manifests/zabbix/server.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/profile/manifests/zabbix/server.pp",
+    "filename": "server.pp",
+    "KIND": "WARNING"
+  }
+]
+,
+[
+  {
+    "message": "class not documented",
+    "line": 1,
+    "column": 1,
+    "kind": "warning",
+    "check": "documentation",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_php_conf.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_php_conf.pp",
+    "filename": "server_php_conf.pp",
+    "KIND": "WARNING"
+  }
+]
+,
+[
+  {
+    "message": "class not documented",
+    "line": 1,
+    "column": 1,
+    "kind": "warning",
+    "check": "documentation",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_conf.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_conf.pp",
+    "filename": "server_conf.pp",
+    "KIND": "WARNING"
+  }
+]
+,
+[
+  {
+    "message": "top-scope variable being used without an explicit namespace",
+    "line": 7,
+    "column": 8,
+    "kind": "warning",
+    "check": "variable_scope",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/agent.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/agent.pp",
+    "filename": "agent.pp",
+    "KIND": "WARNING"
+  },
+  {
+    "message": "class not documented",
+    "line": 1,
+    "column": 1,
+    "kind": "warning",
+    "check": "documentation",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/agent.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/agent.pp",
+    "filename": "agent.pp",
+    "KIND": "WARNING"
+  },
+  {
+    "message": "two-space soft tabs not used",
+    "line": 4,
+    "column": 1,
+    "kind": "error",
+    "check": "2sp_soft_tabs",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/agent.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/agent.pp",
+    "filename": "agent.pp",
+    "KIND": "ERROR"
+  }
+]
+,
+[
+  {
+    "message": "class not documented",
+    "line": 1,
+    "column": 1,
+    "kind": "warning",
+    "check": "documentation",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_install.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_install.pp",
+    "filename": "server_install.pp",
+    "KIND": "WARNING"
+  },
+  {
+    "message": "two-space soft tabs not used",
+    "line": 4,
+    "column": 1,
+    "kind": "error",
+    "check": "2sp_soft_tabs",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_install.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_install.pp",
+    "filename": "server_install.pp",
+    "KIND": "ERROR"
+  },
+  {
+    "message": "two-space soft tabs not used",
+    "line": 5,
+    "column": 1,
+    "kind": "error",
+    "check": "2sp_soft_tabs",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_install.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_install.pp",
+    "filename": "server_install.pp",
+    "KIND": "ERROR"
+  },
+  {
+    "message": "two-space soft tabs not used",
+    "line": 7,
+    "column": 1,
+    "kind": "error",
+    "check": "2sp_soft_tabs",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_install.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_install.pp",
+    "filename": "server_install.pp",
+    "KIND": "ERROR"
+  },
+  {
+    "message": "two-space soft tabs not used",
+    "line": 8,
+    "column": 1,
+    "kind": "error",
+    "check": "2sp_soft_tabs",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_install.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_install.pp",
+    "filename": "server_install.pp",
+    "KIND": "ERROR"
+  },
+  {
+    "message": "two-space soft tabs not used",
+    "line": 10,
+    "column": 1,
+    "kind": "error",
+    "check": "2sp_soft_tabs",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_install.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_install.pp",
+    "filename": "server_install.pp",
+    "KIND": "ERROR"
+  },
+  {
+    "message": "two-space soft tabs not used",
+    "line": 11,
+    "column": 1,
+    "kind": "error",
+    "check": "2sp_soft_tabs",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_install.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_install.pp",
+    "filename": "server_install.pp",
+    "KIND": "ERROR"
+  },
+  {
+    "message": "two-space soft tabs not used",
+    "line": 13,
+    "column": 1,
+    "kind": "error",
+    "check": "2sp_soft_tabs",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_install.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_install.pp",
+    "filename": "server_install.pp",
+    "KIND": "ERROR"
+  },
+  {
+    "message": "two-space soft tabs not used",
+    "line": 14,
+    "column": 1,
+    "kind": "error",
+    "check": "2sp_soft_tabs",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_install.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_install.pp",
+    "filename": "server_install.pp",
+    "KIND": "ERROR"
+  },
+  {
+    "message": "two-space soft tabs not used",
+    "line": 16,
+    "column": 1,
+    "kind": "error",
+    "check": "2sp_soft_tabs",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_install.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_install.pp",
+    "filename": "server_install.pp",
+    "KIND": "ERROR"
+  },
+  {
+    "message": "two-space soft tabs not used",
+    "line": 17,
+    "column": 1,
+    "kind": "error",
+    "check": "2sp_soft_tabs",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_install.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_install.pp",
+    "filename": "server_install.pp",
+    "KIND": "ERROR"
+  },
+  {
+    "message": "two-space soft tabs not used",
+    "line": 19,
+    "column": 1,
+    "kind": "error",
+    "check": "2sp_soft_tabs",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_install.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_install.pp",
+    "filename": "server_install.pp",
+    "KIND": "ERROR"
+  },
+  {
+    "message": "two-space soft tabs not used",
+    "line": 20,
+    "column": 1,
+    "kind": "error",
+    "check": "2sp_soft_tabs",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_install.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_install.pp",
+    "filename": "server_install.pp",
+    "KIND": "ERROR"
+  }
+]
+,
+[
+  {
+    "message": "class not documented",
+    "line": 1,
+    "column": 1,
+    "kind": "warning",
+    "check": "documentation",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/db_conf.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/db_conf.pp",
+    "filename": "db_conf.pp",
+    "KIND": "WARNING"
+  }
+]
+,
+[
+  {
+    "message": "class not documented",
+    "line": 1,
+    "column": 1,
+    "kind": "warning",
+    "check": "documentation",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_start.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/server_start.pp",
+    "filename": "server_start.pp",
+    "KIND": "WARNING"
+  }
+]
+,
+[
+  {
+    "message": "class not documented",
+    "line": 1,
+    "column": 1,
+    "kind": "warning",
+    "check": "documentation",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/repo.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/zabbix/manifests/repo.pp",
+    "filename": "repo.pp",
+    "KIND": "WARNING"
+  }
+]
+,
+[
+  {
+    "message": "class not documented",
+    "line": 1,
+    "column": 1,
+    "kind": "warning",
+    "check": "documentation",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/role/manifests/zabbix_agent.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/role/manifests/zabbix_agent.pp",
+    "filename": "zabbix_agent.pp",
+    "KIND": "WARNING"
+  }
+]
+,
+[
+  {
+    "message": "class not documented",
+    "line": 1,
+    "column": 1,
+    "kind": "warning",
+    "check": "documentation",
+    "fullpath": "/etc/puppetlabs/code/environments/production/modules/role/manifests/zabbix_server.pp",
+    "path": "/etc/puppetlabs/code/environments/production/modules/role/manifests/zabbix_server.pp",
+    "filename": "zabbix_server.pp",
+    "KIND": "WARNING"
+  }
+]
+]
